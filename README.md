@@ -17,8 +17,7 @@ Each folder corresponds to a project or a thematic area and may include:
 The areas covered include, but are not limited to:
 - Data visualization  
 - Exploratory data analysis  
-- Mapping and spatial analysis  
-- Sales analysis  
+- Mapping and spatial analysis   
 - Forecasting and analytical models  
 
 ---
